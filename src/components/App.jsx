@@ -4,7 +4,7 @@ import { ContactForm } from './ContactForm/ContactForm';
 import { Filter } from './Filter/Filter';
 import { ContactList } from './ContactList/ContactList';
 import css from './App.module.css';
-import Storage from 'utils/local-storage';
+import Storage from './utils/local-storage';
 
 const STORAGE_KEY = 'contactList';
 
