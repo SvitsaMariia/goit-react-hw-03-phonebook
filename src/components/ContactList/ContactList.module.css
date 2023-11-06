@@ -27,7 +27,7 @@
   .contactListItemBtn:hover,
   .contactListItemBtn:focus {
     color: var(--white-color);
-    background-color: var(--light-blue-color);
-    border-color: var(--light-blue-color);
+    background-color: var(--light-violet-color);
+    border-color: var(--light-violet-color);
     box-shadow: var(--light-box-shadow);
   }
